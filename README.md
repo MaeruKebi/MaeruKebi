@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @MaeruKebi
-- I'm new to JS and Html but have knowledge on JAVA and Python. 
+  
